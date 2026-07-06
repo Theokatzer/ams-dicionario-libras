@@ -7,12 +7,12 @@
 ## Checklist do Projeto
 
 ### 1. Engenharia de Requisitos (3,0 pts)
-- [ ] Definir Tipos de usuário
-- [ ] Escrever Histórias de Usuário
-- [ ] Listar Requisitos funcionais e não-funcionais (com métricas)
-- [ ] Validar conformidade com WCAG (Acessibilidade)
-- [ ] Redigir políticas da LGPD (dados sensíveis/vídeos)
-- [ ] Estruturar Caso de Uso (pelo menos 1)
+- [ X] Definir Tipos de usuário
+- [X ] Escrever Histórias de Usuário
+- [X ] Listar Requisitos funcionais e não-funcionais (com métricas)
+- [X ] Validar conformidade com WCAG (Acessibilidade)
+- [ X] Redigir políticas da LGPD (dados sensíveis/vídeos)
+- [X ] Estruturar Caso de Uso (pelo menos 1)
 
 ### 2. Modelagem de Software (2,0 pts)
 - [ ] Diagrama de Classes
