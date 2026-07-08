@@ -6,31 +6,31 @@
 
 ## Checklist do Projeto
 
-### 1. Engenharia de Requisitos (3,0 pts)
-- [X] Definir Tipos de usuário
-- [X] Escrever Histórias de Usuário
-- [X] Listar Requisitos funcionais e não-funcionais (com métricas)
-- [X] Validar conformidade com WCAG (Acessibilidade)
-- [X] Redigir políticas da LGPD (dados sensíveis/vídeos)
-- [X] Estruturar Caso de Uso (pelo menos 1)
+### 1. Engenharia de Requisitos (3,0 pts) 
+- [X] Definir Tipos de usuário -> THEO
+- [X] Escrever Histórias de Usuário -> THEO
+- [X] Listar Requisitos funcionais e não-funcionais (com métricas) -> THEO
+- [X] Validar conformidade com WCAG (Acessibilidade) -> THEO
+- [X] Redigir políticas da LGPD (dados sensíveis/vídeos) -> THEO
+- [X] Estruturar Caso de Uso (pelo menos 1) -> THEO
 
 ### 2. Modelagem de Software (2,0 pts)
-- [ ] Diagrama de Classes
-- [ ] Diagrama de Sequência (foco no fluxo de aprovação de vídeo)
-- [ ] Diagrama de Atividades (foco no fluxo de aprovação de vídeo)
+- [X] Diagrama de Classes -> THEO
+- [X] Diagrama de Sequência (foco no fluxo de aprovação de vídeo) -> THEO
+- [X] Diagrama de Atividades (foco no fluxo de aprovação de vídeo) -> THEO
 
 ### 3. Projeto de Software (1,0 pt)
-- [ ] Definir padrão arquitetural (ex: MVC)
-- [ ] Escrever justificativa técnica
+- [X] Definir padrão arquitetural (ex: MVC) -> MATHEUS
+- [X] Escrever justificativa técnica -> MATHEUS
 
 ### 4. Gestão e Colaboração (1,0 pt)
-- [ ] Configurar Trello/Jira/Azure
-- [ ] Definir o "Critério de Pronto" (Definition of Done)
+- [X] Configurar Trello/Jira/Azure -> MATHEUS
+- [X] Definir o "Critério de Pronto" (Definition of Done) -> MATHEUS
 
 ### 5. Código e Protótipo (2,0 pts)
-- [ ] Implementar operações CRUD do dicionário
-- [ ] Implementar funcionalidade de upload de vídeo
+- [X] Implementar operações CRUD do dicionário - > -> MATHEUS
+- [X] Implementar funcionalidade de upload de vídeo
 
 ### 6. Finalização
-- [ ] Descrever no README as atividades feitas por cada membro
-- [ ] Ensaiar a apresentação para a sala 202C-32
+- [X] Descrever no README as atividades feitas por cada membro -> MATHEUS
+- [X] Ensaiar a apresentação para a sala 202C-32 -> AMBOS
